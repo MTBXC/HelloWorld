@@ -16,6 +16,7 @@ namespace HelloWorld
 
             Console.WriteLine(addResult.ToString());
             Console.WriteLine(substractResult.ToString());
+            Console.Write(addResult.ToString());
         }
     }
 }
